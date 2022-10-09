@@ -6,7 +6,7 @@
     "react-scripts": "^5.0.1"
   },
   "name": "fylo-data-storage-component-master",
-  "homepage": "JRobera.github.io/Fylo-data-storage-component",
+  "homepage": "https://JRobera.github.io/Fylo-data-storage-component",
   "description": "![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)",
   "version": "1.0.0",
   "main": "index.js",
